@@ -6,7 +6,8 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I am 20 years old, I have known the world of the web for 3 years, but just 1 year ago I decided that I want to dedicate myself to this. I am a Junior still in this environment so if you have tips or advice that could help me, I am gladly available to talk.
+If you are someone who would be interested in wanting to work with me or do a project together, write to me on my Linkedin or Gmail</h2>
 
 ###
 
