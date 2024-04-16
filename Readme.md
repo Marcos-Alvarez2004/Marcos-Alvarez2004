@@ -11,7 +11,7 @@ If you are someone who would be interested in wanting to work with me or do a pr
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023 <br>📚 I am currently learning how to look for work in relation to my studies<br>🎯 Goals: Work on this, improve my skills, be a better partner, learn, unlearn and relearn<br>🎲 Fun fact: Being a programmer is not as easy as they tell you</p>
 
 ###
 
